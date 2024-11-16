@@ -1,0 +1,47 @@
+{
+  "brand": "Zest",
+  "nav": {
+    "features": "Características",
+    "aiSolutions": "Soluciones IA",
+    "career": "Carrera",
+    "getStarted": "Comenzar"
+  },
+  "hero": {
+    "title1": "Plataforma Inteligente para",
+    "title2": "Dentistas Modernos",
+    "subtitle": "Optimice su práctica con herramientas impulsadas por IA, gestión integral de la clínica y recursos de desarrollo profesional, todo en una plataforma.",
+    "cta": "Prueba Gratuita"
+  },
+  "features": {
+    "clinicManagement": {
+      "title": "Gestión de Clínica",
+      "description": "Herramientas completas para administrar su práctica eficientemente",
+      "items": {
+        "appointments": "Programación Inteligente de Citas",
+        "records": "Registros Digitales de Pacientes",
+        "billing": "Sistema Integrado de Facturación",
+        "analytics": "Análisis e Informes Detallados"
+      }
+    },
+    "aiSolutions": {
+      "title": "Soluciones IA",
+      "description": "Tecnología IA de vanguardia para optimizar su práctica",
+      "items": {
+        "pricing": "Motor de Precios Dinámicos",
+        "analytics": "Análisis Predictivo",
+        "feedback": "Análisis de Feedback de Pacientes",
+        "marketing": "Herramientas de Marketing Inteligente"
+      }
+    },
+    "career": {
+      "title": "Desarrollo Profesional",
+      "description": "Recursos para avanzar en su trayectoria profesional",
+      "items": {
+        "jobs": "Sistema de Matching Laboral",
+        "testing": "Pruebas de Cualificación",
+        "learning": "Aprendizaje Continuo",
+        "networking": "Networking Profesional"
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "brand": "Zest",
+  "nav": {
+    "features": "Features",
+    "aiSolutions": "AI Solutions",
+    "career": "Career",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title1": "Smart Platform for",
+    "title2": "Modern Dentists",
+    "subtitle": "Streamline your practice with AI-powered tools, comprehensive clinic management, and career development resources - all in one platform.",
+    "cta": "Start Free Trial"
+  },
+  "features": {
+    "clinicManagement": {
+      "title": "Clinic Management",
+      "description": "Comprehensive tools for running your practice efficiently",
+      "items": {
+        "appointments": "Smart Appointment Scheduling",
+        "records": "Digital Patient Records",
+        "billing": "Integrated Billing System",
+        "analytics": "Detailed Analytics & Reports"
+      }
+    },
+    "aiSolutions": {
+      "title": "AI Solutions",
+      "description": "Cutting-edge AI technology to optimize your practice",
+      "items": {
+        "pricing": "Dynamic Pricing Engine",
+        "analytics": "Predictive Analytics",
+        "feedback": "Patient Feedback Analysis",
+        "marketing": "Smart Marketing Tools"
+      }
+    },
+    "career": {
+      "title": "Career Development",
+      "description": "Resources to advance your professional journey",
+      "items": {
+        "jobs": "Job Matching System",
+        "testing": "Qualification Testing",
+        "learning": "Continuous Learning",
+        "networking": "Professional Networking"
+      }
+    }
+  }
+}
